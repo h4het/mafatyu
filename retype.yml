@@ -1,0 +1,10 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: Mafatyu
+  label: wiki
+links:
+- text: our reddit 
+  link: https://reddit.com/r/gujaratimeme
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
