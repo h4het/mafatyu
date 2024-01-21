@@ -7,4 +7,4 @@ branding:
 links:
 - text: our reddit 
   link: https://reddit.com/r/gujaratimeme
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "&copy; Copyright {{ year }}. All rights reserved
