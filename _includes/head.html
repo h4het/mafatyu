@@ -1,24 +1,99 @@
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Hind+Vadodara:wght@600&display=swap" rel="stylesheet">
-    <style>
-         .title{
-            text-align: center;
-            color:  #1956AF; 
-            border-radius: 10px;
-            background-color: #ff6105;
-            border: 3px solid #1956AF;
-            padding-top: 20px;
-            margin-bottom: 20px;
-            justify-content: center;
-            font-family: "Hind Vadodara", sans-serif;
-            font-weight: 600;
-            font-style: normal;
-        } 
-       
-    </style>
+<style>
+    .title {
+        text-align: center;
+        color: #1956AF;
+        border-radius: 10px;
+        background-color: #ff6105;
+        border: 3px solid #1956AF;
+        padding-top: 20px;
+        margin-bottom: 20px;
+        justify-content: center;
+        font-family: "Hind Vadodara", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+    }
+    .txt{
+        margin-top: 1cm;
+    }
 
+    .button {
+        height: 2.5cm;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        font-family: "Hind Vadodara", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        /* padding: 0.6em 1em; */
+        border: none;
+        color: rgb(255, 255, 255);
+        background: #111;
+        cursor: pointer;
+        position: relative;
+        z-index: 0;
+        border-radius: 18px;
+        user-select: none;
+        -webkit-user-select: none;
+        touch-action: manipulation;
 
+    }
 
+    .button:before {
+        content: "";
+        background: linear-gradient(45deg,
+                #ff0000,
+                #ff7300,
+                #fffb00,
+                #48ff00,
+                #00ffd5,
+                #002bff,
+                #7a00ff,
+                #ff00c8,
+                #ff0000);
+        position: absolute;
+        /* top: -2px;
+        left: -2px; */
+        background-size: 600%;
+        z-index: -1;
+        filter: blur(15px);
+        -webkit-filter: blur(15px);
+        width: calc(100% + 4px);
+        height: calc(100% + 4px);
+        animation: glowing-button-85 20s linear infinite;
+        transition: opacity 0.3s ease-in-out;
+        border-radius: 18px;
+    }
+
+    @keyframes glowing-button-85 {
+        0% {
+            background-position: 0 0;
+        }
+
+        50% {
+            background-position: 400% 0;
+        }
+
+        100% {
+            background-position: 0 0;
+        }
+    }
+
+    .button:after {
+        z-index: -1;
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+        border-radius: 10px;
+
+    }
+
+</style>
