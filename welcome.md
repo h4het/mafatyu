@@ -1,7 +1,8 @@
 ---
 label: welcome
 layout: default
-order: 100
+order: 101
+icon: ":pray:"
 ---
 # 
 
@@ -10,3 +11,5 @@ order: 100
 # વેલકમ ટુ મ્ફત્યુ વિકિ
 ::: 
 :::
+
+--![](/static/banner.svg)--
