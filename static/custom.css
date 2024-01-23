@@ -166,8 +166,26 @@ margin-top: -15px;
     font-family: "Baloo Bhai 2", sans-serif;
     font-style: normal;
     margin-top: 30px;
-    font-size: 25px;
+    font-size: 17px;
 }
-.docs-markdown h6, .docs-markdown p:not(.hidden){
-    margin: 0;
+.textofshit{
+    margin-bottom: -24px;
+}
+.emoji-shortcut{
+    border-bottom: #ff0000 solid;
+    border-radius: 10px;
+    border-bottom-width: 4px;
+}
+.opensource-para{
+    font-family: "Baloo Bhai 2", sans-serif;
+    font-size: 15px;
+
+}
+.opensource-edit{
+    font-family: "Hind Vadodara", sans-serif;
+    font-weight: 600;
+    text-align: left;
+}
+.adblocker-para1{
+    font-family: "Hind Vadodara", sans-serif;
 }
