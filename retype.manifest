@@ -1,6 +1,6 @@
 {
   "version": "3.5.0",
-  "created": "2024-01-22T12:44:51Z",
+  "created": "2024-01-23T11:03:35Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -64,6 +64,15 @@
       "path": "static/banner.svg"
     },
     {
+      "path": "static/custom.css"
+    },
+    {
+      "path": "static/reddit-head-removebg-preview.png"
+    },
+    {
+      "path": "static/reddit-head.png"
+    },
+    {
       "path": "streaminddl/index.html",
       "old": true
     },
@@ -83,6 +92,9 @@
     {
       "path": "tags/index.html",
       "old": true
+    },
+    {
+      "path": "temp/index.html"
     },
     {
       "path": "tools/ad-blocker/index.html"
