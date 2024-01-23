@@ -132,3 +132,34 @@ margin-top: -15px;
     font-weight: 600;
     font-style: normal;
 }
+.readme-para{
+    font-family: "Anek Gujarati", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.readme-emoji{
+    display: flex;
+    justify-content: center;
+}
+.emoji-title{
+    font-family: "Hind Vadodara", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+    font-size: 35px;
+    overflow: hidden;
+    border: #9B5DE5 solid 2px;
+    border-radius: 10px;
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FDC5F5;
+    color: #111;
+    
+}
+
+.docs-markdown h6, .docs-markdown p:not(.hidden){
+    margin: 0;
+}
