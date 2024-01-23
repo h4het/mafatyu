@@ -1,6 +1,6 @@
 {
   "version": "3.5.0",
-  "created": "2024-01-23T13:30:35Z",
+  "created": "2024-01-23T17:42:14Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -65,6 +65,9 @@
     },
     {
       "path": "static/custom.css"
+    },
+    {
+      "path": "static/plan-wiki.png"
     },
     {
       "path": "static/reddit-head-removebg-preview.png"
