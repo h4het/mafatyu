@@ -141,6 +141,9 @@ margin-top: -15px;
 .readme-emoji{
     display: flex;
     justify-content: center;
+    font-family: "Baloo Bhai 2", sans-serif;
+    font-style: normal;
+
 }
 .emoji-title{
     font-family: "Hind Vadodara", sans-serif;
@@ -159,7 +162,12 @@ margin-top: -15px;
     color: #111;
     
 }
-
+.emoji-shortcut{
+    font-family: "Baloo Bhai 2", sans-serif;
+    font-style: normal;
+    margin-top: 30px;
+    font-size: 25px;
+}
 .docs-markdown h6, .docs-markdown p:not(.hidden){
     margin: 0;
 }
