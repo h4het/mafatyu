@@ -24,7 +24,7 @@ icon: ":pray:"
 :::faq1 { #ans1 }
  [!badge icon="north-star" size= "2xl" variant="success" text="તો wiki એટલે શું?"]
  
-જોવો સૌ પ્રથમ wiki અને wikipedia માં ફર્ક છે.wiki નો અર્થ થાય કે જડપી માહિતી અને encylopedia નો અર્થ થાય કે માહીતો ઓ નો ભંડાર, તો `જડપી માહિતી + માહિતી નો ભંડાર` = `wikipedia`. જયારે આપડી વાત કરીએ તો(મફત્યું) એ માહિતી નો ભંડાર તો નથી પણ જડપી માહિતી તો આપી શકશે.ટૂંકમાં સમજીએ તો <mark>ફાસ્ટ એસ ફક એટલે wiki</mark>  
+જોવો સૌ પ્રથમ wiki અને wikipedia માં ફર્ક છે.wiki નો અર્થ થાય કે જડપી માહિતી અને encylopedia નો અર્થ થાય કે માહીતોઓ નો ભંડાર, તો `જડપી માહિતી + માહિતી નો ભંડાર` = `wikipedia`. જયારે આપડી વાત કરીએ તો(મફત્યું) એ માહિતીનો ભંડાર તો નથી પણ જડપી માહિતી તો આપી શકશે.ટૂંકમાં સમજીએ તો <mark>ફાસ્ટ એસ ફક એટલે wiki</mark>  
 :::
 :::scroll-badge
 [!badge icon="info" size="xl" variant="warning" text="sidebar is scrollable"]
