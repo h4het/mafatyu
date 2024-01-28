@@ -30,7 +30,9 @@ icon: ":pray:"
 [!badge icon="info" size="xl" variant="warning" text="sidebar is scrollable"]
 :::
 :::
-
+:::scroll-badge2
+[!badge icon="info" size="l" variant="primary" text="mobile first priority"]
+:::
 
 
 
