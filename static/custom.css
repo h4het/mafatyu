@@ -11,7 +11,8 @@
     font-weight: 600;
     font-style: normal;
 }
-.txt{
+
+.txt {
     margin-top: 1cm;
 }
 
@@ -88,27 +89,32 @@
     top: 0;
     border-radius: 10px;
 }
+
 img {
-border-radius: 12px;
+    border-radius: 12px;
 }
-.welcome-text{
-font-family: "Anek Gujarati", sans-serif;
-font-optical-sizing: auto;
-font-weight: 600;
-font-style: normal
+
+.welcome-text {
+    font-family: "Anek Gujarati", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal
 }
-.welcome-text{
- font-size: large;
+
+.welcome-text {
+    font-size: large;
 }
-.faq1{
-font-family: "Hind Vadodara", sans-serif;
-font-weight: 600;
-font-style: normal;
-justify-content: center;
-border: black solid 2px; 
-    
+
+.faq1 {
+    font-family: "Hind Vadodara", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    justify-content: center;
+    border: black solid 2px;
+
 }
-#ans1{
+
+#ans1 {
     text-align: center;
     color: #1956AF;
     border-radius: 10px;
@@ -118,34 +124,40 @@ border: black solid 2px;
     margin-bottom: 20px;
     font-size: 15px;
 }
-.text-green-700{
-border: #00ffd5 solid 1.8px;
-font-size: 20px;
+
+.text-green-700 {
+    border: #00ffd5 solid 1.8px;
+    font-size: 20px;
 }
-.scroll-badge{
-display: flex;
-justify-content: center;
-margin-top: -15px;
+
+.scroll-badge,
+.scroll-badge2 {
+    display: flex;
+    justify-content: center;
+    margin-top: -10px;
 }
-.readme-title{
+
+.readme-title {
     font-family: "Hind Vadodara", sans-serif;
     font-weight: 600;
     font-style: normal;
 }
-.readme-para{
+
+.readme-para {
     font-family: "Anek Gujarati", sans-serif;
     font-weight: 300;
     font-style: normal;
 }
 
-.readme-emoji{
+.readme-emoji {
     display: flex;
     justify-content: center;
     font-family: "Baloo Bhai 2", sans-serif;
     font-style: normal;
 
 }
-.emoji-title{
+
+.emoji-title {
     font-family: "Hind Vadodara", sans-serif;
     font-weight: 600;
     font-style: normal;
@@ -160,32 +172,44 @@ margin-top: -15px;
     justify-content: center;
     background-color: #FDC5F5;
     color: #111;
-    
+
 }
-.emoji-shortcut{
+
+.emoji-shortcut {
     font-family: "Baloo Bhai 2", sans-serif;
     font-style: normal;
     margin-top: 30px;
     font-size: 17px;
 }
-.textofshit{
+
+.textofshit {
     margin-bottom: -24px;
 }
-.emoji-shortcut{
+
+.emoji-shortcut {
     border-bottom: #ff0000 solid;
     border-radius: 10px;
     border-bottom-width: 4px;
 }
-.opensource-para{
+
+.opensource-para {
     font-family: "Baloo Bhai 2", sans-serif;
     font-size: 15px;
 
 }
-.opensource-edit{
+
+.opensource-edit {
     font-family: "Hind Vadodara", sans-serif;
     font-weight: 600;
     text-align: left;
 }
-.adblocker-para1{
+
+.adblocker-para1 {
     font-family: "Hind Vadodara", sans-serif;
+}
+.app-adblock{
+    font-family: "Hind Vadodara" , sans-serif;
+    font-weight: 600;
+    color: burlywood;
+    font-size: 29px;
 }
