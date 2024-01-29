@@ -213,3 +213,20 @@ img {
     color: burlywood;
     font-size: 29px;
 }
+.app-adblock-list{
+    font-family: "Anek Gujarati", sans-serif;
+}
+.tabs-adguard-dns{
+    font-family: "Hind Vadodara", sans-serif;
+}
+.border-down{
+    border-bottom: red dotted 4px;
+    border-bottom-left-radius: 15px ;
+    border-bottom-right-radius: 15px ;
+    margin-bottom: 20px;
+}
+.imp-step-text{
+    color: red;
+    text-align: center;
+    background-color: #E1EDFF;
+}
